@@ -1,0 +1,27 @@
+
+.color-contacto {
+background: #000000;
+}
+
+.barra-contacto {
+    background: #000000;
+    padding-top: 20px;
+}
+
+.barra-contacto i {
+    color: #CB4335;
+    font-size: 22px;
+}
+
+.barra-contacto a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.barra-contacto a:last-of-type {
+    margin-right: 0;
+}
+
+.barra-contacto div {
+    text-align: right;
+}
